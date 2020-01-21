@@ -35,7 +35,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title TBD (R for Reproducible Scientific Analysis)"
+title: "Software Carpentry: R for Reproducible Scientific Analysis"
 
 
 #------------------------------------------------------------
