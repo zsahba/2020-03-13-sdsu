@@ -69,8 +69,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-traininhttps://pad.carpentries.org/2020-03-13-sdsug"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/shervinsahba/2020-03-13-sdsu"
+workshop_site: "https://shervinsahba.github.io/2020-03-13-sdsu"
 
 # Surveys.
 pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
